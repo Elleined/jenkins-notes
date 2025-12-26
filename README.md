@@ -205,6 +205,17 @@ pipeline {
 3. Lastly restart the jenkins server to reflect the restored backup
 4. Restart the jenkins server by http://<jenkins_server_ip>:<jenkins_server_port>/restart
 
+# Most common pipeline
+1. Run test cases
+2. Build the project
+3. Build a image // Dockerfile
+4. Login in docker
+5. Push the image
+6. SSH in server (down and pull and run docker compose)
+7. Run the image
+8. Clean up
+
+
 # For more Reference
 - [Ashok IT Theorethical CI/ CD Youtube Video](https://youtu.be/Ri-URt8gPCk)
 - [Ashok IT Practical CI/ CD Youtube Video](https://www.youtube.com/watch?v=4cG7dWKbrC8)
