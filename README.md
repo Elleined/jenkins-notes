@@ -215,6 +215,24 @@ pipeline {
 7. Run the image
 8. Clean up
 
+# Jenkins Credentials
+
+## Stores (Who)
+- Who can use it?
+- Gives structure to your creds
+
+1. System
+	- Jenkins itself
+	- Agents
+2. Global
+	- Usable by all jobs
+
+3. Folder
+
+## Domains (Where)
+- Where it can be used?
+- Gives safety to your creds
+
 
 # For more Reference
 - [Ashok IT Theorethical CI/ CD Youtube Video](https://youtu.be/Ri-URt8gPCk)
