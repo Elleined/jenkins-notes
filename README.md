@@ -239,3 +239,4 @@ pipeline {
 - [Ashok IT Practical CI/ CD Youtube Video](https://www.youtube.com/watch?v=4cG7dWKbrC8)
 - [Ashok IT DevOps Documentation](https://github.com/ashokitschool/DevOps-Documents)
 - [Ashok IT Backup and Restore](https://www.youtube.com/watch?v=5Tb-AOUFuKQ&t=106s)
+- [Setting up agent](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl#:~:text=Jenkins%20Controller:%20A%20running%20Jenkins,Scope:%20Global)
